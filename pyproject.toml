@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "lsyzwmworkcore"
-version = "0.0.2"
+version = "0.0.3"
 description = "lsyzwm-work-core - 简化work任务分发与执行的核心库"
 readme = "README.md"
 requires-python = ">=3.8"
